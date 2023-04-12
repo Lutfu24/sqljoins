@@ -24,3 +24,4 @@ SELECT * from Employee
 WHERE Salary BETWEEN 500 AND 1500
 
 SELECT Fullname, Email, Salary from Employee
+ORDER BY Salary DESC
